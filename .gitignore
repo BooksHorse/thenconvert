@@ -1,0 +1,10 @@
+**/target
+**/bazel-bin
+**/bazel-out
+**/bazel-stage-*
+**/bazel-testlogs
+*/target/
+**/bazel-*
+/target/
+*/target/**
+*/Cargo.lock
